@@ -6,4 +6,4 @@
 # @author : Raphael Cerveaux (sundowndev)
 
 google_api_key=''
-google_cx_id=''
+google_cx_id='007207194442300274185:txzd4ztlgse'
